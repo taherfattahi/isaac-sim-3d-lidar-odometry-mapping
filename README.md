@@ -1,6 +1,6 @@
 # Isaac Sim 3D LiDAR Odometry and Mapping with MOLA
 
-Integrating NVIDIA Isaac Sim with the Modular Optimization framework for Localization and mapping (MOLA) enables advanced 3D LiDAR odometry and mapping. This combination allows for the simulation, testing, and validation of LiDAR-based SLAM algorithms within a virtual environment. 
+Integrating Nvidia Isaac Sim with the Modular Optimization framework for Localization and mapping (MOLA) enables advanced 3D LiDAR odometry and mapping. This combination allows for the simulation, testing, and validation of LiDAR-based SLAM algorithms within a virtual environment. 
 
 ## Demo Video
 [![IMAGE](images/ros2-carter-image.png)](https://youtu.be/0JTuzaDoSi4)
