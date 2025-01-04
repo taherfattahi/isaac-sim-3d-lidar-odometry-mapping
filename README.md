@@ -62,7 +62,7 @@ Contributions are welcome. If you find a bug or have a feature request, please o
 
 ## Resources
 
-- [Nvidia Isaac Sim](https://developer.nvidia.com/isaac/sim) robotics developer simulation platform and reference application is designed to help developers design, simulate, test, and train AI-based robots and autonomous machines in a physically based virtual environment.
+- [Nvidia Isaac Sim](https://docs.omniverse.nvidia.com/isaacsim/latest/) robotics developer simulation platform and reference application is designed to help developers design, simulate, test, and train AI-based robots and autonomous machines in a physically based virtual environment.
 - Modular Optimization framework for Localization and mapping [MOLA](https://docs.mola-slam.org/latest/)
 - Robot Operating System [(ROS 2 Humble)](https://docs.ros.org/en/humble/index.html)
 - ROS 2 [tf2](https://docs.ros.org/en/humble/Tutorials/Intermediate/Tf2/Introduction-To-Tf2.html)
