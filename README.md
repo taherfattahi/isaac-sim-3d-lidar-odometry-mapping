@@ -15,7 +15,7 @@ Integrating Nvidia Isaac Sim with the Modular Optimization framework for Localiz
 
 - **ROS 2 Integration:** Seamless communication between simulation and MOLA components via ROS 2.
 
-- **RViz2:** Powerful visualization tool in the ROS2 ecosystem, offering real-time rendering of robot states, -sensor data, maps, and navigation goals.
+- **RViz2:** Powerful visualization tool in the ROS2 ecosystem, offering real-time rendering of robot states, sensor data, maps, and navigation goals.
 Facilitates debugging and system diagnostics with an intuitive GUI.
 
 
